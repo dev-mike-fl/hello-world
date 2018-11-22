@@ -1,2 +1,3 @@
 # hello-world
-Just a Hello World repository for share stuff about me, and what I do.
+
+I'm just a person who love technology, and learning new things which are technology based. This is a learning git.
